@@ -1,2 +1,3 @@
 # App-Store-Support
-http://Ihsienchou.simplesite.com
+http://fullyload.simplesite.com
+http://Ihsienchou.com
