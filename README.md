@@ -1,2 +1,2 @@
 # App-Store-Support
-http://Ihsienchou.com
+http://Ihsienchou.simplesite.com
